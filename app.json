@@ -5,6 +5,14 @@
       "bundler": "metro"
     },
     "name": "JOBHUNT",
-    "slug": "JOBHUNT"
+    "slug": "JOBHUNT",
+    "extra": {
+      "eas": {
+        "projectId": "5e007089-dd76-4662-bf3e-c713e1ebed93"
+      }
+    },
+    "android": {
+      "package": "com.joniedev.JOBHUNT"
+    }
   }
 }
